@@ -1,0 +1,501 @@
+Age,Budget,TravelFrequency,CulturalInterest,PrefersLocal,TechSavvy,GroupType,SeeksSpirituality,EcoFriendly,Region,EducationLevel,LanguageProficiency,PreferredDestinations,TravelPurpose,TravelCompanion,InternetUsageHours,CulturalEventParticipation,SocialMediaInfluence,HistoricalKnowledge,LocalCuisineInterest
+56,49417,4,5,0,1,1,1,1,North-East,Master,5,Temples,Photography,Family,3,4,2,3,5
+46,28938,2,5,1,2,1,1,0,East India,PhD,5,Nature Reserves,Adventure,Solo,3,0,1,5,5
+32,28664,3,5,0,5,2,1,0,North-East,High School,1,Festivals,Leisure,Family,8,2,5,3,5
+60,6636,4,3,0,3,4,1,1,South India,Master,3,Monuments,Adventure,Group Tour,8,3,4,3,3
+25,25080,5,5,0,4,4,1,0,North India,Master,2,Temples,Education,Solo,8,0,1,4,5
+38,32728,1,1,1,5,3,1,1,East India,PhD,1,Temples,Leisure,Friends,9,3,5,3,4
+56,31736,5,4,1,3,2,0,0,South India,High School,2,Monuments,Adventure,Family,6,2,4,3,2
+36,33673,4,1,0,3,1,0,1,South India,High School,2,Festivals,Education,Partner,1,3,3,2,1
+40,42505,4,1,1,1,2,0,1,East India,Master,3,Temples,Photography,Partner,9,4,1,1,3
+28,5854,4,5,0,2,3,0,1,North-East,Bachelor,2,Temples,Education,Group Tour,4,4,1,4,5
+28,29548,5,4,0,2,3,1,0,South India,Master,2,Nature Reserves,Pilgrimage,Partner,3,3,3,4,5
+41,43623,4,4,0,5,2,0,0,West India,Master,3,Festivals,Education,Family,7,0,3,4,2
+53,12392,5,4,0,2,2,1,1,South India,Master,2,Temples,Education,Family,1,0,1,2,2
+57,26556,4,3,1,4,2,0,1,North-East,Master,2,Festivals,Pilgrimage,Partner,5,0,3,3,3
+41,43559,3,5,1,2,4,0,0,North-East,PhD,2,Monuments,Adventure,Family,4,3,2,1,1
+20,31309,4,4,1,5,1,0,0,West India,High School,1,Museums,Adventure,Group Tour,1,0,4,5,5
+39,26919,5,3,0,2,2,1,0,South India,PhD,1,Temples,Education,Solo,9,2,4,3,3
+19,9931,2,2,1,4,2,0,1,North-East,PhD,1,Nature Reserves,Pilgrimage,Group Tour,0,4,4,2,4
+41,37970,4,2,0,1,2,1,0,East India,PhD,3,Monuments,Pilgrimage,Group Tour,7,2,2,3,4
+61,49215,2,3,1,5,3,1,0,North India,Master,5,Festivals,Photography,Family,1,0,3,3,3
+47,17688,3,3,0,1,3,0,1,North India,Bachelor,2,Monuments,Adventure,Solo,6,2,5,2,5
+55,30342,1,5,0,1,4,0,0,North India,High School,2,Temples,Leisure,Family,8,0,3,4,3
+19,42157,3,5,0,1,1,0,0,South India,Bachelor,3,Festivals,Adventure,Friends,8,3,1,4,5
+38,7327,4,2,1,3,4,1,0,West India,PhD,2,Museums,Adventure,Family,7,2,4,1,2
+50,45772,2,4,1,3,1,0,1,North-East,PhD,1,Monuments,Photography,Family,9,3,3,1,3
+29,45545,2,2,1,1,3,1,1,East India,Bachelor,5,Temples,Leisure,Family,8,3,5,4,5
+39,5197,5,4,1,5,3,1,1,East India,Bachelor,4,Nature Reserves,Photography,Solo,1,1,1,5,3
+61,28509,2,4,0,4,3,0,1,South India,Bachelor,2,Festivals,Leisure,Family,5,0,2,3,3
+42,39698,5,5,1,4,4,0,1,North India,PhD,1,Monuments,Education,Solo,3,4,2,5,5
+44,49542,1,1,1,2,2,1,1,South India,PhD,4,Monuments,Leisure,Partner,3,0,5,3,5
+59,20087,4,1,0,5,2,1,1,West India,High School,5,Museums,Photography,Friends,4,4,1,4,1
+45,27671,5,3,0,3,3,1,0,West India,High School,4,Museums,Adventure,Solo,2,0,4,1,3
+33,30184,1,5,0,1,2,0,0,North-East,PhD,1,Nature Reserves,Leisure,Partner,0,3,3,1,4
+32,32848,2,4,1,2,2,1,1,North-East,Bachelor,4,Nature Reserves,Leisure,Solo,7,2,1,5,3
+64,47107,2,1,0,4,4,0,0,West India,Bachelor,3,Temples,Pilgrimage,Solo,4,2,2,1,3
+61,25666,1,4,0,3,1,1,0,West India,High School,4,Temples,Adventure,Friends,2,1,5,4,5
+20,49357,2,1,0,3,3,1,1,West India,PhD,2,Nature Reserves,Education,Group Tour,9,4,5,5,3
+54,20708,1,1,1,1,3,0,0,South India,High School,2,Nature Reserves,Photography,Group Tour,6,4,3,3,3
+24,31370,5,1,0,4,4,1,0,West India,High School,3,Festivals,Education,Solo,6,4,5,1,4
+38,7811,5,5,1,5,4,0,0,East India,Master,1,Museums,Adventure,Family,0,3,5,2,5
+26,11546,1,2,1,3,2,0,0,North India,Master,2,Temples,Leisure,Partner,8,4,1,1,3
+56,39754,5,4,0,1,3,1,0,West India,Master,5,Museums,Leisure,Family,1,2,4,3,2
+35,35206,5,5,0,5,1,0,1,North India,Bachelor,2,Museums,Adventure,Family,4,3,3,5,1
+21,46106,5,5,1,4,4,0,1,South India,PhD,2,Nature Reserves,Leisure,Solo,4,0,1,3,4
+42,16411,3,5,0,3,1,1,1,North India,PhD,1,Festivals,Leisure,Solo,7,4,4,2,3
+31,7911,4,5,0,5,1,0,0,South India,PhD,4,Monuments,Leisure,Solo,7,4,1,4,2
+26,6734,2,5,1,5,3,0,1,East India,PhD,2,Festivals,Photography,Solo,6,0,1,1,3
+43,23227,3,3,1,5,3,0,0,South India,Master,3,Festivals,Photography,Group Tour,6,4,5,5,3
+19,13680,5,4,0,3,4,1,0,South India,Bachelor,4,Museums,Pilgrimage,Solo,5,0,4,4,5
+37,24360,1,5,1,3,3,0,0,North-East,Bachelor,5,Festivals,Education,Group Tour,5,3,3,3,5
+45,23343,5,4,0,2,3,1,0,West India,Master,1,Temples,Adventure,Group Tour,8,2,3,5,5
+64,10759,4,3,0,4,3,1,1,West India,Bachelor,5,Museums,Adventure,Solo,5,0,4,4,2
+24,28078,5,3,0,1,1,0,1,East India,Master,4,Temples,Adventure,Friends,1,1,5,5,3
+61,40153,1,4,1,5,4,0,0,East India,PhD,4,Monuments,Pilgrimage,Partner,1,0,2,2,1
+25,16111,4,1,0,2,2,0,1,West India,Master,4,Museums,Photography,Family,4,4,1,2,4
+64,42504,5,2,0,1,1,1,0,North-East,PhD,5,Monuments,Pilgrimage,Group Tour,3,3,5,1,5
+52,6802,4,1,0,2,3,0,1,West India,PhD,4,Museums,Adventure,Partner,1,3,4,1,5
+31,13155,2,1,1,3,1,0,1,North-East,High School,5,Nature Reserves,Education,Friends,2,0,1,2,3
+34,13120,2,1,1,5,3,0,0,East India,Master,4,Festivals,Leisure,Family,6,2,3,5,3
+53,44384,5,5,1,1,3,0,1,North India,High School,3,Nature Reserves,Photography,Family,7,1,2,2,2
+57,26918,4,3,1,1,1,0,0,East India,Master,4,Monuments,Photography,Group Tour,5,3,3,1,2
+21,25445,1,1,1,1,4,1,1,East India,Master,5,Festivals,Pilgrimage,Solo,4,4,4,2,5
+19,35306,5,3,0,1,3,1,0,South India,High School,2,Museums,Photography,Friends,0,4,1,2,3
+23,21646,2,4,1,1,4,0,0,South India,High School,4,Festivals,Adventure,Group Tour,7,2,4,5,1
+59,36065,2,2,1,2,2,0,1,South India,Master,2,Temples,Adventure,Friends,2,3,1,4,4
+21,30199,5,4,1,5,3,0,1,South India,Bachelor,3,Festivals,Pilgrimage,Solo,5,0,5,1,3
+46,46976,4,4,0,3,4,0,0,North-East,PhD,1,Temples,Adventure,Solo,2,4,2,5,3
+35,21371,2,5,1,3,4,1,1,West India,High School,3,Festivals,Education,Group Tour,6,2,5,2,2
+43,16835,4,2,1,3,2,0,1,North India,PhD,4,Temples,Pilgrimage,Solo,6,3,5,2,4
+61,7049,2,4,0,3,4,1,0,East India,Bachelor,2,Monuments,Education,Partner,8,3,4,4,5
+51,36616,2,4,1,2,4,1,0,North-East,Bachelor,2,Nature Reserves,Leisure,Family,4,3,2,1,3
+27,43191,3,2,0,4,2,0,1,North India,Bachelor,5,Museums,Education,Group Tour,7,3,1,1,5
+53,25932,2,2,0,5,3,1,0,North-East,High School,2,Festivals,Leisure,Friends,9,3,1,3,3
+31,34855,1,4,0,1,4,1,0,North-East,Bachelor,5,Nature Reserves,Leisure,Partner,9,4,3,1,5
+48,12158,5,2,0,4,4,1,0,East India,High School,1,Museums,Education,Group Tour,7,2,1,4,4
+32,48016,5,4,0,3,4,1,1,West India,Bachelor,4,Museums,Pilgrimage,Solo,0,3,4,3,2
+25,12400,4,4,1,4,1,0,1,South India,PhD,5,Temples,Adventure,Solo,4,1,5,3,4
+31,47642,2,5,0,5,2,0,0,West India,PhD,1,Monuments,Adventure,Solo,2,1,5,2,1
+40,20151,1,1,0,1,1,1,1,East India,Master,2,Monuments,Leisure,Solo,0,2,5,2,2
+57,6154,4,4,1,1,2,0,0,East India,PhD,2,Nature Reserves,Leisure,Friends,3,0,2,1,4
+38,9499,3,3,0,5,3,0,1,East India,Master,1,Monuments,Pilgrimage,Partner,7,0,1,3,1
+33,11295,4,1,1,5,3,0,0,North India,PhD,2,Festivals,Photography,Family,2,0,4,2,3
+62,17183,4,1,1,3,4,0,0,West India,High School,1,Monuments,Education,Friends,9,1,2,4,3
+35,34299,2,1,1,1,2,0,1,West India,PhD,5,Nature Reserves,Leisure,Friends,1,0,3,2,5
+64,17874,3,5,0,4,3,1,0,North-East,Master,5,Monuments,Adventure,Family,8,4,4,2,2
+41,37711,4,4,0,2,2,0,1,North-East,Master,1,Festivals,Pilgrimage,Family,9,3,4,3,3
+43,10539,1,5,0,2,3,0,1,North-East,Bachelor,5,Temples,Education,Solo,4,1,4,3,2
+42,47405,1,4,1,5,1,0,0,East India,High School,5,Nature Reserves,Pilgrimage,Friends,6,2,5,5,3
+62,7557,5,5,0,3,3,0,0,West India,PhD,5,Temples,Education,Group Tour,1,2,4,4,5
+58,43360,3,5,0,2,1,1,1,East India,Bachelor,3,Temples,Education,Family,8,3,1,3,4
+46,21482,3,3,0,1,3,1,0,North India,PhD,4,Temples,Leisure,Family,8,1,4,1,5
+32,7200,5,5,1,5,4,1,0,North-East,PhD,2,Museums,Pilgrimage,Partner,3,0,5,4,1
+62,7961,4,2,1,4,1,1,0,East India,Bachelor,3,Museums,Pilgrimage,Group Tour,3,0,4,4,3
+18,26357,3,3,0,5,3,0,0,East India,Bachelor,5,Temples,Adventure,Group Tour,5,4,3,3,1
+42,16969,1,5,0,4,4,1,0,North India,Bachelor,1,Nature Reserves,Adventure,Family,9,4,3,4,1
+24,7869,1,1,0,5,1,0,1,South India,Bachelor,5,Festivals,Leisure,Solo,9,0,5,3,2
+26,33643,2,2,0,5,4,0,1,West India,Bachelor,4,Festivals,Leisure,Partner,9,2,1,2,3
+41,29736,3,2,1,5,2,0,0,South India,PhD,5,Monuments,Photography,Group Tour,5,2,1,5,1
+18,43467,4,2,1,4,2,0,0,North-East,Bachelor,1,Nature Reserves,Adventure,Family,0,4,2,2,4
+61,28328,5,3,1,4,1,0,0,East India,High School,4,Museums,Education,Group Tour,8,3,5,3,1
+25,30876,5,5,1,5,3,1,1,North India,Master,5,Temples,Pilgrimage,Partner,1,0,4,3,4
+41,26295,4,5,0,2,1,1,0,North India,Bachelor,4,Monuments,Leisure,Partner,4,4,5,2,2
+28,8987,2,1,0,3,4,1,1,West India,Bachelor,2,Festivals,Pilgrimage,Friends,8,4,2,1,1
+34,27399,5,1,0,3,3,1,1,South India,PhD,2,Museums,Pilgrimage,Family,3,0,5,1,5
+25,38986,3,2,1,3,2,0,1,West India,Bachelor,5,Museums,Photography,Partner,2,0,5,1,2
+52,25880,2,1,0,4,3,1,0,East India,Bachelor,4,Temples,Adventure,Friends,6,2,2,3,4
+52,9735,3,3,1,4,2,0,1,West India,Bachelor,1,Festivals,Leisure,Friends,5,3,1,4,2
+50,49064,1,5,1,2,3,1,0,North India,PhD,5,Nature Reserves,Pilgrimage,Group Tour,7,3,4,3,1
+22,9555,2,2,0,3,3,0,1,North India,Bachelor,2,Museums,Leisure,Group Tour,2,0,2,4,3
+59,46914,5,1,0,3,3,0,0,North-East,Master,2,Temples,Education,Friends,4,1,3,2,3
+56,45818,2,3,0,5,4,1,1,North-East,PhD,5,Nature Reserves,Photography,Group Tour,9,4,1,5,4
+58,24830,2,3,1,4,4,0,0,East India,Master,4,Festivals,Education,Partner,3,4,3,4,4
+45,22429,2,1,0,3,1,0,1,South India,PhD,2,Museums,Leisure,Solo,3,0,1,1,3
+24,11893,2,5,1,2,1,1,0,West India,Bachelor,4,Nature Reserves,Leisure,Partner,3,1,4,3,4
+26,19373,3,1,0,2,2,0,0,East India,Master,2,Nature Reserves,Adventure,Friends,9,2,4,2,2
+25,8436,1,2,1,3,4,1,0,North-East,PhD,2,Nature Reserves,Pilgrimage,Friends,7,0,5,1,5
+29,13754,4,1,1,4,2,1,0,West India,High School,3,Museums,Pilgrimage,Partner,5,0,3,2,5
+51,15677,2,3,0,2,1,1,1,North-East,Bachelor,2,Museums,Education,Group Tour,2,4,1,5,2
+50,10895,5,1,1,5,2,0,1,West India,PhD,1,Monuments,Photography,Group Tour,9,0,4,3,5
+40,24738,2,5,1,2,1,0,0,South India,High School,5,Festivals,Pilgrimage,Friends,4,0,2,3,1
+41,35746,5,4,0,1,4,0,1,East India,PhD,5,Temples,Adventure,Family,5,0,4,5,2
+54,37352,3,1,1,1,3,1,0,West India,High School,4,Nature Reserves,Education,Group Tour,4,4,2,3,4
+52,44790,5,5,0,4,4,0,0,North India,Bachelor,2,Monuments,Education,Partner,5,2,1,4,2
+61,46919,4,5,1,3,2,1,1,North India,Master,1,Temples,Adventure,Group Tour,7,2,4,2,3
+57,10600,1,3,0,4,2,1,0,West India,High School,4,Monuments,Photography,Partner,6,0,4,1,4
+39,34124,5,5,0,4,4,0,0,West India,PhD,3,Museums,Adventure,Friends,4,4,1,5,3
+44,32643,5,5,1,4,4,1,1,West India,Bachelor,4,Nature Reserves,Photography,Group Tour,9,2,4,4,4
+52,45764,1,5,1,4,1,0,0,North India,High School,4,Temples,Adventure,Partner,5,2,2,1,5
+18,14007,4,5,1,5,2,0,0,North India,PhD,2,Temples,Adventure,Friends,3,2,4,1,2
+52,42410,2,2,1,5,2,0,0,West India,PhD,3,Temples,Leisure,Family,8,4,3,5,1
+54,49080,5,2,1,2,4,0,0,North-East,PhD,4,Temples,Education,Partner,3,4,5,4,4
+64,45447,1,3,0,1,3,0,1,North-East,High School,1,Temples,Adventure,Family,0,0,2,1,4
+31,13208,3,1,1,4,2,1,1,South India,High School,1,Monuments,Adventure,Family,6,3,3,1,3
+20,23589,1,5,0,2,3,1,1,East India,High School,5,Nature Reserves,Pilgrimage,Solo,6,2,1,4,5
+18,48484,3,1,0,1,4,1,0,North-East,Master,3,Museums,Education,Group Tour,3,3,2,3,3
+22,22453,4,1,1,3,4,0,0,North India,High School,3,Museums,Pilgrimage,Partner,2,4,5,1,3
+43,41212,2,3,0,5,1,0,1,North-East,High School,5,Museums,Education,Family,7,4,5,2,5
+31,48525,1,5,0,1,2,0,0,South India,High School,4,Museums,Pilgrimage,Solo,4,4,1,4,1
+56,37635,5,5,0,3,3,1,0,South India,Master,3,Monuments,Adventure,Friends,9,3,1,1,3
+44,38828,4,4,0,1,1,0,0,East India,High School,1,Festivals,Adventure,Partner,6,4,2,5,3
+26,23711,1,1,1,5,2,1,0,North-East,PhD,1,Nature Reserves,Leisure,Family,3,0,4,2,4
+32,8420,5,1,0,5,1,1,1,North India,High School,2,Temples,Pilgrimage,Group Tour,3,4,1,1,5
+32,36216,1,2,1,2,4,0,1,North India,PhD,3,Festivals,Photography,Solo,7,1,4,2,2
+43,5301,3,4,1,4,2,0,1,West India,PhD,4,Museums,Leisure,Family,7,3,3,2,1
+59,5699,1,2,0,1,1,1,0,North India,PhD,5,Festivals,Pilgrimage,Group Tour,1,1,5,3,1
+30,5190,1,2,1,1,1,0,1,East India,Master,5,Nature Reserves,Pilgrimage,Family,1,4,4,2,5
+49,15492,1,2,1,3,3,1,1,East India,Master,4,Temples,Leisure,Partner,2,0,5,3,4
+56,40743,4,3,1,5,1,0,0,North India,Master,2,Temples,Adventure,Partner,2,2,4,4,4
+49,11102,1,3,0,1,2,0,0,North India,High School,5,Nature Reserves,Pilgrimage,Partner,0,4,3,3,5
+21,24778,5,2,1,5,2,1,1,West India,PhD,3,Nature Reserves,Adventure,Solo,2,0,1,5,4
+47,31641,3,4,1,1,3,0,1,North India,Master,2,Museums,Leisure,Partner,5,3,3,1,1
+54,39584,3,1,1,2,2,1,1,West India,Master,3,Temples,Adventure,Group Tour,7,1,1,4,1
+40,37745,1,4,0,4,4,0,1,West India,High School,1,Festivals,Education,Family,9,1,1,4,2
+56,28093,4,5,1,1,2,1,0,North India,Master,2,Monuments,Photography,Friends,5,1,5,5,5
+62,5569,4,3,0,5,2,1,1,South India,High School,5,Monuments,Pilgrimage,Group Tour,4,3,3,3,3
+32,43210,5,1,0,2,1,0,1,South India,Bachelor,2,Nature Reserves,Photography,Group Tour,3,0,4,1,3
+60,39663,1,1,0,1,1,1,0,West India,Master,2,Museums,Adventure,Partner,2,3,3,3,2
+46,41631,3,5,0,3,2,0,1,North India,Bachelor,2,Monuments,Pilgrimage,Solo,3,1,5,2,2
+53,12455,4,5,0,4,3,0,0,South India,High School,2,Temples,Adventure,Family,6,4,1,3,4
+30,9014,1,2,0,1,1,0,0,North India,PhD,3,Nature Reserves,Education,Solo,0,2,5,4,2
+49,16093,4,3,1,2,3,1,0,North India,Master,1,Festivals,Leisure,Family,6,3,2,1,2
+24,23070,4,3,0,3,2,1,1,North India,High School,4,Nature Reserves,Pilgrimage,Family,0,3,2,3,3
+39,40777,3,4,1,2,2,0,1,North-East,PhD,2,Festivals,Education,Solo,1,0,4,1,4
+45,21538,2,2,1,2,4,0,0,North India,PhD,5,Nature Reserves,Education,Group Tour,3,0,5,1,2
+19,15729,5,2,0,3,1,1,1,North-East,Bachelor,2,Nature Reserves,Pilgrimage,Family,0,3,4,2,2
+59,39177,5,2,1,2,2,0,1,West India,High School,5,Nature Reserves,Adventure,Solo,8,1,4,2,4
+62,5784,3,2,1,3,4,0,0,South India,PhD,3,Festivals,Education,Family,5,2,2,4,5
+23,32751,4,3,1,1,1,1,0,South India,Master,5,Festivals,Photography,Friends,0,0,4,5,4
+45,45864,1,3,1,3,2,0,1,South India,Master,4,Nature Reserves,Education,Group Tour,0,1,2,1,3
+45,45328,4,2,0,3,2,1,0,South India,Bachelor,1,Monuments,Adventure,Partner,5,4,1,5,5
+61,17533,3,4,1,4,1,0,1,South India,PhD,5,Museums,Adventure,Family,3,0,5,4,1
+61,45111,5,1,0,3,1,1,1,South India,High School,5,Museums,Photography,Friends,3,1,4,1,4
+37,44974,4,1,1,3,1,0,1,South India,Master,1,Museums,Education,Partner,5,1,2,1,3
+47,10801,5,4,1,1,2,0,1,West India,PhD,4,Festivals,Adventure,Partner,6,2,3,5,5
+28,24190,1,2,0,4,2,1,0,North India,PhD,2,Festivals,Pilgrimage,Family,8,2,4,3,4
+45,43754,5,3,1,5,4,0,0,East India,Bachelor,5,Monuments,Leisure,Solo,9,4,1,2,2
+42,34592,5,1,1,1,3,1,0,North-East,Master,1,Museums,Leisure,Family,4,1,1,3,4
+56,15647,2,5,1,1,1,0,0,East India,Master,3,Museums,Leisure,Friends,8,1,3,5,1
+50,13716,2,5,0,5,2,1,1,East India,High School,1,Nature Reserves,Education,Partner,3,2,2,2,4
+18,28355,2,4,1,3,2,1,1,North India,Master,3,Festivals,Photography,Family,9,0,4,3,5
+44,27009,5,2,0,2,1,1,0,North India,High School,4,Museums,Adventure,Solo,1,0,2,2,5
+30,29376,3,1,1,4,3,1,1,North India,Master,2,Monuments,Pilgrimage,Family,2,3,1,1,4
+58,9780,5,2,0,2,1,0,1,South India,Bachelor,1,Monuments,Pilgrimage,Group Tour,0,2,2,3,5
+20,7368,3,1,0,5,3,0,1,West India,Master,5,Museums,Education,Solo,5,3,1,2,2
+56,17039,3,4,1,1,2,1,0,South India,High School,4,Festivals,Leisure,Friends,5,2,2,2,4
+23,11655,2,4,1,1,3,1,0,West India,High School,1,Monuments,Education,Partner,0,4,3,2,2
+25,45941,4,5,0,4,4,1,0,West India,Bachelor,5,Nature Reserves,Photography,Family,2,1,5,3,2
+44,9495,1,2,0,1,2,0,1,East India,Master,1,Monuments,Photography,Solo,4,4,3,4,3
+26,15893,2,5,1,1,4,0,0,East India,Master,3,Temples,Adventure,Group Tour,2,2,3,3,4
+54,30547,2,2,0,4,1,0,0,West India,Bachelor,1,Temples,Adventure,Solo,9,1,5,5,5
+50,27386,4,5,1,4,1,0,0,West India,Master,1,Festivals,Photography,Group Tour,2,0,5,3,2
+59,18403,1,3,1,5,1,1,0,South India,Master,1,Museums,Photography,Friends,9,0,4,2,3
+61,37097,5,3,1,1,3,1,0,South India,High School,4,Festivals,Photography,Partner,2,3,4,1,4
+41,18121,5,3,1,1,2,1,0,East India,Master,1,Festivals,Education,Friends,4,2,3,3,4
+32,15966,2,3,0,5,1,0,1,North India,Master,5,Festivals,Photography,Family,4,2,3,3,1
+49,38621,1,1,1,3,1,0,1,West India,Bachelor,3,Festivals,Pilgrimage,Solo,3,0,1,2,1
+49,33312,2,3,0,3,2,0,0,South India,Bachelor,3,Nature Reserves,Leisure,Group Tour,0,4,1,1,2
+41,27677,3,4,1,3,1,1,0,East India,PhD,1,Nature Reserves,Photography,Group Tour,4,1,4,1,1
+58,36289,2,4,0,5,4,1,1,South India,High School,4,Monuments,Leisure,Solo,9,4,4,5,2
+29,36024,2,1,1,1,2,0,1,West India,Master,4,Temples,Education,Solo,4,4,1,3,5
+56,49417,4,5,0,1,1,1,1,North-East,Master,5,Festivals,Leisure,Family,3,0,1,1,2
+46,28938,2,5,1,2,1,1,0,East India,PhD,1,Monuments,Education,Friends,5,0,2,1,1
+32,28664,3,5,0,5,2,1,0,North-East,Master,3,Temples,Pilgrimage,Group Tour,9,0,2,4,5
+60,6636,4,3,0,3,4,1,1,South India,High School,4,Museums,Education,Family,3,3,1,4,1
+25,25080,5,5,0,4,4,1,0,North India,PhD,1,Nature Reserves,Education,Friends,6,4,2,1,2
+38,32728,1,1,1,5,3,1,1,East India,High School,4,Temples,Adventure,Family,6,2,5,5,3
+56,31736,5,4,1,3,2,0,0,South India,PhD,4,Museums,Photography,Group Tour,1,1,4,1,4
+36,33673,4,1,0,3,1,0,1,South India,PhD,3,Temples,Photography,Solo,2,3,4,2,1
+40,42505,4,1,1,1,2,0,1,East India,Bachelor,2,Nature Reserves,Pilgrimage,Solo,0,2,1,3,2
+28,5854,4,5,0,2,3,0,1,North-East,High School,5,Nature Reserves,Pilgrimage,Friends,7,4,3,5,5
+28,29548,5,4,0,2,3,1,0,South India,Master,5,Monuments,Photography,Partner,8,0,1,2,1
+41,43623,4,4,0,5,2,0,0,West India,Master,3,Festivals,Adventure,Friends,3,4,2,5,1
+53,12392,5,4,0,2,2,1,1,South India,High School,4,Temples,Photography,Partner,5,1,3,2,4
+57,26556,4,3,1,4,2,0,1,North-East,Master,1,Temples,Adventure,Family,8,3,2,3,2
+41,43559,3,5,1,2,4,0,0,North-East,Master,4,Museums,Pilgrimage,Family,5,3,5,3,3
+20,31309,4,4,1,5,1,0,0,West India,High School,3,Nature Reserves,Leisure,Group Tour,8,1,2,4,5
+39,26919,5,3,0,2,2,1,0,South India,PhD,5,Temples,Pilgrimage,Partner,3,2,5,2,2
+19,9931,2,2,1,4,2,0,1,North-East,High School,4,Nature Reserves,Pilgrimage,Group Tour,7,2,5,4,5
+41,37970,4,2,0,1,2,1,0,East India,PhD,5,Temples,Education,Solo,8,3,2,2,1
+61,49215,2,3,1,5,3,1,0,North India,Master,1,Monuments,Education,Partner,3,3,2,4,4
+47,17688,3,3,0,1,3,0,1,North India,Master,5,Festivals,Education,Friends,4,0,5,3,4
+55,30342,1,5,0,1,4,0,0,North India,Master,5,Temples,Education,Solo,7,2,3,5,3
+19,42157,3,5,0,1,1,0,0,South India,Bachelor,2,Nature Reserves,Adventure,Solo,9,1,5,4,4
+38,7327,4,2,1,3,4,1,0,West India,PhD,2,Monuments,Photography,Friends,5,2,4,2,1
+50,45772,2,4,1,3,1,0,1,North-East,Bachelor,2,Temples,Leisure,Solo,6,0,5,2,3
+29,45545,2,2,1,1,3,1,1,East India,Bachelor,5,Museums,Pilgrimage,Partner,2,3,3,3,2
+39,5197,5,4,1,5,3,1,1,East India,High School,3,Festivals,Adventure,Group Tour,6,3,4,2,4
+61,28509,2,4,0,4,3,0,1,South India,Bachelor,5,Temples,Leisure,Solo,7,0,1,1,3
+42,39698,5,5,1,4,4,0,1,North India,High School,3,Monuments,Adventure,Partner,9,1,1,5,1
+44,49542,1,1,1,2,2,1,1,South India,High School,3,Museums,Adventure,Family,5,3,3,4,5
+59,20087,4,1,0,5,2,1,1,West India,Bachelor,2,Monuments,Pilgrimage,Partner,9,4,5,5,5
+45,27671,5,3,0,3,3,1,0,West India,PhD,4,Monuments,Photography,Group Tour,8,3,2,3,1
+33,30184,1,5,0,1,2,0,0,North-East,PhD,1,Museums,Education,Partner,5,4,3,4,1
+32,32848,2,4,1,2,2,1,1,North-East,PhD,2,Monuments,Photography,Friends,8,0,4,4,5
+64,47107,2,1,0,4,4,0,0,West India,PhD,2,Museums,Pilgrimage,Group Tour,3,0,4,1,3
+61,25666,1,4,0,3,1,1,0,West India,PhD,4,Temples,Pilgrimage,Family,7,3,1,3,5
+20,49357,2,1,0,3,3,1,1,West India,Bachelor,1,Museums,Pilgrimage,Friends,3,2,4,2,1
+54,20708,1,1,1,1,3,0,0,South India,Bachelor,5,Museums,Leisure,Partner,1,4,3,1,4
+24,31370,5,1,0,4,4,1,0,West India,Master,5,Festivals,Photography,Group Tour,9,1,4,1,2
+38,7811,5,5,1,5,4,0,0,East India,PhD,2,Museums,Photography,Family,8,3,3,5,4
+26,11546,1,2,1,3,2,0,0,North India,Bachelor,1,Museums,Adventure,Friends,4,1,2,5,4
+56,39754,5,4,0,1,3,1,0,West India,Master,2,Temples,Adventure,Family,3,3,1,5,1
+35,35206,5,5,0,5,1,0,1,North India,PhD,3,Festivals,Adventure,Partner,1,2,4,1,5
+21,46106,5,5,1,4,4,0,1,South India,High School,2,Nature Reserves,Pilgrimage,Family,0,2,3,2,3
+42,16411,3,5,0,3,1,1,1,North India,Master,2,Temples,Photography,Solo,6,2,5,4,4
+31,7911,4,5,0,5,1,0,0,South India,Bachelor,5,Temples,Pilgrimage,Friends,5,2,1,5,5
+26,6734,2,5,1,5,3,0,1,East India,High School,5,Nature Reserves,Leisure,Family,1,0,2,2,3
+43,23227,3,3,1,5,3,0,0,South India,High School,5,Museums,Adventure,Partner,7,0,3,3,4
+19,13680,5,4,0,3,4,1,0,South India,High School,3,Monuments,Pilgrimage,Partner,3,4,2,5,3
+37,24360,1,5,1,3,3,0,0,North-East,Master,5,Festivals,Pilgrimage,Family,7,1,2,4,5
+45,23343,5,4,0,2,3,1,0,West India,Bachelor,1,Monuments,Leisure,Partner,6,3,4,3,2
+64,10759,4,3,0,4,3,1,1,West India,High School,4,Nature Reserves,Education,Group Tour,4,3,4,3,5
+24,28078,5,3,0,1,1,0,1,East India,PhD,1,Temples,Photography,Group Tour,9,0,3,4,1
+61,40153,1,4,1,5,4,0,0,East India,High School,1,Temples,Education,Group Tour,9,3,5,5,3
+25,16111,4,1,0,2,2,0,1,West India,High School,5,Festivals,Adventure,Solo,7,0,3,1,2
+64,42504,5,2,0,1,1,1,0,North-East,Master,4,Temples,Pilgrimage,Family,8,4,5,4,3
+52,6802,4,1,0,2,3,0,1,West India,Master,4,Temples,Leisure,Solo,4,1,2,4,3
+31,13155,2,1,1,3,1,0,1,North-East,Bachelor,4,Festivals,Leisure,Partner,9,4,1,4,4
+34,13120,2,1,1,5,3,0,0,East India,PhD,3,Festivals,Photography,Solo,4,2,3,3,1
+53,44384,5,5,1,1,3,0,1,North India,Master,5,Nature Reserves,Education,Partner,1,2,3,2,3
+57,26918,4,3,1,1,1,0,0,East India,High School,4,Temples,Photography,Partner,4,2,5,1,5
+21,25445,1,1,1,1,4,1,1,East India,Bachelor,3,Temples,Pilgrimage,Friends,2,4,2,5,5
+19,35306,5,3,0,1,3,1,0,South India,High School,2,Nature Reserves,Photography,Group Tour,6,3,2,5,4
+23,21646,2,4,1,1,4,0,0,South India,High School,2,Museums,Leisure,Partner,9,1,5,2,1
+59,36065,2,2,1,2,2,0,1,South India,Master,3,Museums,Leisure,Friends,4,2,2,4,1
+21,30199,5,4,1,5,3,0,1,South India,Bachelor,3,Museums,Adventure,Group Tour,7,2,4,1,5
+46,46976,4,4,0,3,4,0,0,North-East,PhD,5,Nature Reserves,Adventure,Partner,0,2,1,5,2
+35,21371,2,5,1,3,4,1,1,West India,PhD,5,Temples,Pilgrimage,Partner,2,1,3,5,4
+43,16835,4,2,1,3,2,0,1,North India,Master,2,Nature Reserves,Education,Solo,2,2,1,4,4
+61,7049,2,4,0,3,4,1,0,East India,Master,4,Nature Reserves,Photography,Solo,8,1,3,2,5
+51,36616,2,4,1,2,4,1,0,North-East,Bachelor,2,Museums,Pilgrimage,Group Tour,4,2,4,1,5
+27,43191,3,2,0,4,2,0,1,North India,PhD,4,Monuments,Adventure,Partner,8,4,2,2,2
+53,25932,2,2,0,5,3,1,0,North-East,PhD,4,Temples,Photography,Family,8,4,5,2,2
+31,34855,1,4,0,1,4,1,0,North-East,PhD,5,Museums,Adventure,Solo,0,1,4,1,1
+48,12158,5,2,0,4,4,1,0,East India,High School,1,Monuments,Photography,Group Tour,1,4,1,1,4
+32,48016,5,4,0,3,4,1,1,West India,PhD,1,Monuments,Education,Partner,4,1,5,5,4
+25,12400,4,4,1,4,1,0,1,South India,High School,3,Festivals,Pilgrimage,Partner,3,4,2,5,5
+31,47642,2,5,0,5,2,0,0,West India,Bachelor,5,Temples,Photography,Family,9,4,4,1,1
+40,20151,1,1,0,1,1,1,1,East India,High School,4,Monuments,Leisure,Group Tour,8,1,5,3,4
+57,6154,4,4,1,1,2,0,0,East India,Bachelor,1,Museums,Leisure,Partner,6,3,4,5,1
+38,9499,3,3,0,5,3,0,1,East India,PhD,4,Festivals,Photography,Solo,5,4,4,3,1
+33,11295,4,1,1,5,3,0,0,North India,PhD,1,Temples,Photography,Family,6,2,2,1,5
+62,17183,4,1,1,3,4,0,0,West India,Bachelor,1,Nature Reserves,Photography,Group Tour,0,3,3,5,1
+35,34299,2,1,1,1,2,0,1,West India,Master,1,Museums,Leisure,Family,0,1,5,2,2
+64,17874,3,5,0,4,3,1,0,North-East,Bachelor,5,Monuments,Leisure,Solo,7,3,2,1,2
+41,37711,4,4,0,2,2,0,1,North-East,Master,2,Monuments,Photography,Group Tour,1,0,4,4,3
+43,10539,1,5,0,2,3,0,1,North-East,High School,4,Museums,Adventure,Family,9,0,2,3,5
+42,47405,1,4,1,5,1,0,0,East India,High School,5,Monuments,Adventure,Friends,8,4,3,1,3
+62,7557,5,5,0,3,3,0,0,West India,High School,5,Festivals,Education,Solo,6,4,5,1,2
+58,43360,3,5,0,2,1,1,1,East India,PhD,5,Temples,Pilgrimage,Solo,5,2,3,5,3
+46,21482,3,3,0,1,3,1,0,North India,High School,5,Festivals,Adventure,Solo,0,3,1,5,5
+32,7200,5,5,1,5,4,1,0,North-East,Master,5,Monuments,Leisure,Friends,0,0,5,5,5
+62,7961,4,2,1,4,1,1,0,East India,High School,3,Nature Reserves,Adventure,Friends,1,4,3,4,1
+18,26357,3,3,0,5,3,0,0,East India,Bachelor,4,Temples,Education,Partner,5,3,4,5,4
+42,16969,1,5,0,4,4,1,0,North India,Bachelor,5,Temples,Education,Family,5,4,5,1,1
+24,7869,1,1,0,5,1,0,1,South India,PhD,4,Museums,Pilgrimage,Partner,1,4,5,5,5
+26,33643,2,2,0,5,4,0,1,West India,Bachelor,3,Museums,Adventure,Family,0,0,2,2,2
+41,29736,3,2,1,5,2,0,0,South India,Master,3,Nature Reserves,Leisure,Friends,9,0,4,5,2
+18,43467,4,2,1,4,2,0,0,North-East,High School,4,Temples,Leisure,Friends,4,4,1,4,1
+61,28328,5,3,1,4,1,0,0,East India,PhD,1,Nature Reserves,Photography,Partner,4,1,3,2,5
+25,30876,5,5,1,5,3,1,1,North India,High School,2,Museums,Leisure,Group Tour,1,4,2,1,2
+41,26295,4,5,0,2,1,1,0,North India,High School,1,Museums,Pilgrimage,Partner,5,4,3,1,5
+28,8987,2,1,0,3,4,1,1,West India,Master,1,Temples,Pilgrimage,Family,8,2,1,3,2
+34,27399,5,1,0,3,3,1,1,South India,Bachelor,1,Festivals,Leisure,Partner,1,2,1,2,5
+25,38986,3,2,1,3,2,0,1,West India,Bachelor,5,Monuments,Leisure,Solo,9,2,5,3,3
+52,25880,2,1,0,4,3,1,0,East India,High School,3,Museums,Photography,Family,1,1,1,2,5
+52,9735,3,3,1,4,2,0,1,West India,PhD,1,Museums,Leisure,Family,2,1,3,2,5
+50,49064,1,5,1,2,3,1,0,North India,Bachelor,3,Festivals,Photography,Group Tour,6,4,4,4,1
+22,9555,2,2,0,3,3,0,1,North India,PhD,4,Festivals,Photography,Friends,5,2,4,3,3
+59,46914,5,1,0,3,3,0,0,North-East,Bachelor,2,Nature Reserves,Leisure,Family,7,1,5,4,4
+56,45818,2,3,0,5,4,1,1,North-East,PhD,4,Nature Reserves,Education,Friends,7,0,3,2,1
+58,24830,2,3,1,4,4,0,0,East India,Master,4,Monuments,Education,Partner,5,4,3,1,4
+45,22429,2,1,0,3,1,0,1,South India,PhD,5,Monuments,Photography,Solo,9,3,1,2,2
+24,11893,2,5,1,2,1,1,0,West India,Master,2,Temples,Leisure,Group Tour,2,4,3,4,4
+26,19373,3,1,0,2,2,0,0,East India,Master,4,Nature Reserves,Education,Friends,2,3,2,3,5
+25,8436,1,2,1,3,4,1,0,North-East,PhD,4,Museums,Leisure,Family,0,2,1,3,4
+29,13754,4,1,1,4,2,1,0,West India,Master,2,Nature Reserves,Leisure,Friends,6,3,2,4,1
+51,15677,2,3,0,2,1,1,1,North-East,High School,2,Museums,Leisure,Family,4,2,5,3,1
+50,10895,5,1,1,5,2,0,1,West India,Master,4,Festivals,Adventure,Friends,3,0,4,5,4
+40,24738,2,5,1,2,1,0,0,South India,Bachelor,2,Nature Reserves,Leisure,Family,9,3,5,1,1
+41,35746,5,4,0,1,4,0,1,East India,PhD,4,Festivals,Adventure,Partner,3,4,4,1,1
+54,37352,3,1,1,1,3,1,0,West India,High School,4,Monuments,Photography,Family,3,2,5,1,4
+52,44790,5,5,0,4,4,0,0,North India,PhD,5,Monuments,Education,Family,5,4,3,3,3
+61,46919,4,5,1,3,2,1,1,North India,Bachelor,1,Temples,Education,Solo,7,1,2,3,3
+57,10600,1,3,0,4,2,1,0,West India,Bachelor,4,Nature Reserves,Education,Family,7,2,4,2,2
+39,34124,5,5,0,4,4,0,0,West India,Bachelor,3,Festivals,Education,Solo,4,3,1,2,1
+44,32643,5,5,1,4,4,1,1,West India,Master,1,Museums,Education,Group Tour,5,2,2,1,4
+52,45764,1,5,1,4,1,0,0,North India,Master,1,Monuments,Education,Solo,3,4,1,5,1
+18,14007,4,5,1,5,2,0,0,North India,PhD,1,Monuments,Education,Partner,8,0,2,2,5
+52,42410,2,2,1,5,2,0,0,West India,PhD,5,Museums,Photography,Solo,7,2,2,2,1
+54,49080,5,2,1,2,4,0,0,North-East,High School,4,Festivals,Leisure,Group Tour,9,3,5,3,1
+64,45447,1,3,0,1,3,0,1,North-East,High School,5,Festivals,Pilgrimage,Partner,9,1,4,5,3
+31,13208,3,1,1,4,2,1,1,South India,PhD,4,Nature Reserves,Adventure,Friends,0,0,4,1,4
+20,23589,1,5,0,2,3,1,1,East India,Master,5,Nature Reserves,Pilgrimage,Friends,1,1,2,2,1
+18,48484,3,1,0,1,4,1,0,North-East,Bachelor,5,Temples,Pilgrimage,Solo,8,2,3,5,3
+22,22453,4,1,1,3,4,0,0,North India,PhD,3,Monuments,Leisure,Solo,7,4,3,5,2
+43,41212,2,3,0,5,1,0,1,North-East,High School,5,Nature Reserves,Leisure,Group Tour,2,4,1,1,3
+31,48525,1,5,0,1,2,0,0,South India,Master,2,Festivals,Leisure,Group Tour,7,3,1,5,3
+56,37635,5,5,0,3,3,1,0,South India,PhD,3,Museums,Education,Family,0,4,5,5,3
+44,38828,4,4,0,1,1,0,0,East India,PhD,5,Festivals,Photography,Group Tour,9,0,2,5,1
+26,23711,1,1,1,5,2,1,0,North-East,Master,1,Monuments,Education,Family,3,4,1,2,1
+32,8420,5,1,0,5,1,1,1,North India,PhD,2,Festivals,Photography,Partner,2,3,1,1,2
+32,36216,1,2,1,2,4,0,1,North India,Master,2,Temples,Photography,Solo,5,2,2,5,5
+43,5301,3,4,1,4,2,0,1,West India,Bachelor,2,Monuments,Pilgrimage,Partner,6,2,5,5,5
+59,5699,1,2,0,1,1,1,0,North India,Master,3,Museums,Pilgrimage,Group Tour,3,4,1,2,5
+30,5190,1,2,1,1,1,0,1,East India,Master,5,Temples,Photography,Partner,6,1,5,1,2
+49,15492,1,2,1,3,3,1,1,East India,Master,5,Monuments,Photography,Partner,8,2,4,3,5
+56,40743,4,3,1,5,1,0,0,North India,PhD,1,Museums,Education,Partner,1,4,5,2,5
+49,11102,1,3,0,1,2,0,0,North India,PhD,1,Temples,Education,Group Tour,2,3,3,1,3
+21,24778,5,2,1,5,2,1,1,West India,Master,2,Temples,Pilgrimage,Partner,4,4,3,5,1
+47,31641,3,4,1,1,3,0,1,North India,PhD,1,Monuments,Leisure,Family,2,2,5,1,1
+54,39584,3,1,1,2,2,1,1,West India,High School,3,Nature Reserves,Photography,Group Tour,7,3,3,1,3
+40,37745,1,4,0,4,4,0,1,West India,High School,5,Temples,Education,Partner,9,4,4,1,3
+56,28093,4,5,1,1,2,1,0,North India,PhD,2,Temples,Pilgrimage,Group Tour,7,0,2,3,3
+62,5569,4,3,0,5,2,1,1,South India,PhD,1,Museums,Education,Friends,7,3,3,1,1
+32,43210,5,1,0,2,1,0,1,South India,Master,3,Festivals,Photography,Family,8,0,3,3,5
+60,39663,1,1,0,1,1,1,0,West India,Bachelor,3,Monuments,Photography,Partner,3,1,5,5,3
+46,41631,3,5,0,3,2,0,1,North India,PhD,1,Monuments,Adventure,Friends,4,3,4,3,2
+53,12455,4,5,0,4,3,0,0,South India,High School,5,Nature Reserves,Leisure,Friends,4,0,2,5,3
+30,9014,1,2,0,1,1,0,0,North India,Master,1,Nature Reserves,Adventure,Group Tour,7,2,5,5,4
+49,16093,4,3,1,2,3,1,0,North India,PhD,2,Monuments,Pilgrimage,Friends,6,2,5,3,3
+24,23070,4,3,0,3,2,1,1,North India,High School,1,Nature Reserves,Education,Family,8,1,4,2,1
+39,40777,3,4,1,2,2,0,1,North-East,High School,3,Museums,Pilgrimage,Family,7,3,2,4,3
+45,21538,2,2,1,2,4,0,0,North India,Bachelor,1,Monuments,Photography,Solo,1,3,4,1,4
+19,15729,5,2,0,3,1,1,1,North-East,Master,5,Nature Reserves,Adventure,Family,9,3,2,4,2
+59,39177,5,2,1,2,2,0,1,West India,Master,4,Monuments,Adventure,Friends,3,1,4,1,5
+62,5784,3,2,1,3,4,0,0,South India,Bachelor,1,Festivals,Adventure,Family,5,3,5,1,3
+23,32751,4,3,1,1,1,1,0,South India,Bachelor,5,Temples,Pilgrimage,Group Tour,1,2,5,5,4
+45,45864,1,3,1,3,2,0,1,South India,Master,5,Monuments,Photography,Solo,6,0,1,1,4
+45,45328,4,2,0,3,2,1,0,South India,Master,3,Temples,Education,Friends,2,2,3,1,2
+61,17533,3,4,1,4,1,0,1,South India,PhD,5,Nature Reserves,Education,Solo,2,2,4,3,1
+61,45111,5,1,0,3,1,1,1,South India,PhD,5,Temples,Pilgrimage,Friends,1,0,1,4,3
+37,44974,4,1,1,3,1,0,1,South India,Bachelor,5,Monuments,Adventure,Group Tour,7,2,3,3,4
+47,10801,5,4,1,1,2,0,1,West India,PhD,5,Festivals,Leisure,Solo,5,1,4,1,2
+28,24190,1,2,0,4,2,1,0,North India,High School,2,Nature Reserves,Pilgrimage,Partner,0,0,2,5,5
+45,43754,5,3,1,5,4,0,0,East India,PhD,2,Monuments,Pilgrimage,Friends,0,2,3,3,4
+42,34592,5,1,1,1,3,1,0,North-East,PhD,3,Nature Reserves,Photography,Partner,6,4,5,3,2
+56,15647,2,5,1,1,1,0,0,East India,High School,1,Museums,Education,Solo,7,2,1,2,1
+50,13716,2,5,0,5,2,1,1,East India,Bachelor,5,Temples,Pilgrimage,Partner,4,1,3,1,1
+18,28355,2,4,1,3,2,1,1,North India,High School,1,Museums,Pilgrimage,Partner,4,3,3,5,4
+44,27009,5,2,0,2,1,1,0,North India,PhD,1,Monuments,Adventure,Solo,3,2,5,3,4
+30,29376,3,1,1,4,3,1,1,North India,Bachelor,3,Festivals,Adventure,Group Tour,5,3,4,3,3
+58,9780,5,2,0,2,1,0,1,South India,PhD,5,Nature Reserves,Leisure,Partner,5,4,2,5,2
+20,7368,3,1,0,5,3,0,1,West India,High School,5,Temples,Photography,Partner,2,2,5,1,4
+56,17039,3,4,1,1,2,1,0,South India,High School,4,Nature Reserves,Leisure,Group Tour,8,0,2,2,3
+23,11655,2,4,1,1,3,1,0,West India,PhD,1,Monuments,Adventure,Partner,6,3,4,3,3
+25,45941,4,5,0,4,4,1,0,West India,Master,1,Nature Reserves,Education,Partner,0,4,3,2,4
+44,9495,1,2,0,1,2,0,1,East India,Master,2,Temples,Adventure,Partner,6,0,2,4,1
+26,15893,2,5,1,1,4,0,0,East India,High School,4,Monuments,Photography,Family,4,0,1,1,2
+54,30547,2,2,0,4,1,0,0,West India,High School,2,Nature Reserves,Adventure,Group Tour,4,0,1,4,2
+50,27386,4,5,1,4,1,0,0,West India,Master,2,Festivals,Photography,Partner,1,0,5,4,1
+59,18403,1,3,1,5,1,1,0,South India,Master,2,Monuments,Photography,Group Tour,3,2,4,4,4
+61,37097,5,3,1,1,3,1,0,South India,PhD,3,Monuments,Photography,Friends,5,2,5,1,2
+41,18121,5,3,1,1,2,1,0,East India,PhD,3,Festivals,Photography,Friends,9,2,5,1,4
+32,15966,2,3,0,5,1,0,1,North India,Master,2,Museums,Photography,Partner,6,4,5,5,4
+49,38621,1,1,1,3,1,0,1,West India,PhD,4,Temples,Education,Group Tour,4,4,1,2,3
+49,33312,2,3,0,3,2,0,0,South India,PhD,1,Museums,Leisure,Group Tour,8,4,1,2,1
+41,27677,3,4,1,3,1,1,0,East India,Bachelor,4,Nature Reserves,Pilgrimage,Group Tour,2,1,5,5,4
+58,36289,2,4,0,5,4,1,1,South India,PhD,5,Festivals,Leisure,Family,0,4,1,5,5
+29,36024,2,1,1,1,2,0,1,West India,High School,3,Museums,Photography,Friends,3,2,4,4,1
+56,49417,4,5,0,1,1,1,1,North-East,PhD,1,Monuments,Education,Group Tour,8,2,5,5,2
+46,28938,2,5,1,2,1,1,0,East India,PhD,1,Nature Reserves,Adventure,Group Tour,3,1,1,3,3
+32,28664,3,5,0,5,2,1,0,North-East,Master,5,Nature Reserves,Education,Family,1,1,2,2,2
+60,6636,4,3,0,3,4,1,1,South India,High School,5,Museums,Photography,Family,9,4,5,5,2
+25,25080,5,5,0,4,4,1,0,North India,PhD,2,Museums,Education,Group Tour,4,3,5,3,1
+38,32728,1,1,1,5,3,1,1,East India,PhD,3,Festivals,Education,Solo,2,1,4,3,2
+56,31736,5,4,1,3,2,0,0,South India,Bachelor,3,Temples,Photography,Group Tour,8,0,3,3,4
+36,33673,4,1,0,3,1,0,1,South India,PhD,4,Museums,Education,Group Tour,3,2,3,3,2
+40,42505,4,1,1,1,2,0,1,East India,PhD,2,Museums,Pilgrimage,Family,5,0,4,4,3
+28,5854,4,5,0,2,3,0,1,North-East,Bachelor,2,Monuments,Pilgrimage,Family,1,2,4,3,3
+28,29548,5,4,0,2,3,1,0,South India,Master,2,Nature Reserves,Education,Group Tour,5,2,4,4,5
+41,43623,4,4,0,5,2,0,0,West India,PhD,2,Temples,Adventure,Group Tour,2,1,3,4,3
+53,12392,5,4,0,2,2,1,1,South India,Bachelor,3,Monuments,Photography,Group Tour,8,1,4,3,2
+57,26556,4,3,1,4,2,0,1,North-East,High School,3,Festivals,Pilgrimage,Family,1,0,1,2,3
+41,43559,3,5,1,2,4,0,0,North-East,Master,2,Festivals,Adventure,Group Tour,8,2,5,3,1
+20,31309,4,4,1,5,1,0,0,West India,High School,4,Museums,Education,Group Tour,4,0,5,3,3
+39,26919,5,3,0,2,2,1,0,South India,High School,1,Museums,Adventure,Partner,7,3,2,3,4
+19,9931,2,2,1,4,2,0,1,North-East,Bachelor,1,Festivals,Leisure,Solo,1,0,2,2,1
+41,37970,4,2,0,1,2,1,0,East India,PhD,4,Museums,Pilgrimage,Friends,5,4,5,1,5
+61,49215,2,3,1,5,3,1,0,North India,Bachelor,2,Temples,Education,Solo,2,0,1,1,4
+47,17688,3,3,0,1,3,0,1,North India,Bachelor,3,Museums,Photography,Partner,9,4,3,4,2
+55,30342,1,5,0,1,4,0,0,North India,Bachelor,1,Nature Reserves,Education,Friends,4,4,3,4,2
+19,42157,3,5,0,1,1,0,0,South India,Bachelor,5,Museums,Photography,Group Tour,7,4,1,2,2
+38,7327,4,2,1,3,4,1,0,West India,Master,5,Monuments,Education,Partner,9,3,3,5,4
+50,45772,2,4,1,3,1,0,1,North-East,PhD,4,Temples,Adventure,Group Tour,0,0,4,1,4
+29,45545,2,2,1,1,3,1,1,East India,High School,2,Monuments,Adventure,Family,4,0,5,4,4
+39,5197,5,4,1,5,3,1,1,East India,High School,1,Monuments,Adventure,Partner,2,3,5,1,1
+61,28509,2,4,0,4,3,0,1,South India,PhD,2,Nature Reserves,Leisure,Family,3,2,1,2,1
+42,39698,5,5,1,4,4,0,1,North India,High School,1,Temples,Photography,Partner,1,1,3,2,2
+44,49542,1,1,1,2,2,1,1,South India,PhD,4,Temples,Adventure,Partner,8,0,2,5,3
+59,20087,4,1,0,5,2,1,1,West India,High School,4,Temples,Leisure,Family,2,1,2,5,2
+45,27671,5,3,0,3,3,1,0,West India,Bachelor,5,Temples,Photography,Friends,1,3,3,2,5
+33,30184,1,5,0,1,2,0,0,North-East,High School,2,Temples,Education,Solo,9,2,2,4,1
+32,32848,2,4,1,2,2,1,1,North-East,PhD,5,Nature Reserves,Leisure,Group Tour,8,2,1,1,4
+64,47107,2,1,0,4,4,0,0,West India,PhD,2,Museums,Pilgrimage,Partner,6,2,1,3,1
+61,25666,1,4,0,3,1,1,0,West India,PhD,5,Monuments,Leisure,Group Tour,5,3,3,5,4
+20,49357,2,1,0,3,3,1,1,West India,PhD,3,Temples,Leisure,Family,0,4,2,3,5
+54,20708,1,1,1,1,3,0,0,South India,PhD,3,Museums,Photography,Group Tour,4,4,1,4,5
+24,31370,5,1,0,4,4,1,0,West India,Master,3,Museums,Education,Family,2,1,1,5,1
+38,7811,5,5,1,5,4,0,0,East India,Master,3,Monuments,Pilgrimage,Group Tour,0,4,4,3,4
+26,11546,1,2,1,3,2,0,0,North India,High School,1,Nature Reserves,Adventure,Solo,3,4,4,4,5
+56,39754,5,4,0,1,3,1,0,West India,PhD,3,Festivals,Adventure,Solo,1,2,1,1,2
+35,35206,5,5,0,5,1,0,1,North India,High School,4,Festivals,Leisure,Solo,1,2,3,4,2
+21,46106,5,5,1,4,4,0,1,South India,PhD,4,Museums,Photography,Solo,2,1,5,5,4
+42,16411,3,5,0,3,1,1,1,North India,PhD,1,Monuments,Photography,Solo,7,0,5,2,1
+31,7911,4,5,0,5,1,0,0,South India,Master,3,Festivals,Adventure,Solo,7,1,1,1,5
+26,6734,2,5,1,5,3,0,1,East India,Master,3,Museums,Pilgrimage,Family,6,1,1,3,1
+43,23227,3,3,1,5,3,0,0,South India,Bachelor,3,Nature Reserves,Education,Partner,5,3,1,5,2
+19,13680,5,4,0,3,4,1,0,South India,Master,5,Festivals,Pilgrimage,Group Tour,8,3,3,2,5
+37,24360,1,5,1,3,3,0,0,North-East,Bachelor,2,Museums,Education,Solo,3,1,4,4,1
+45,23343,5,4,0,2,3,1,0,West India,Bachelor,5,Museums,Adventure,Family,0,1,1,2,3
+64,10759,4,3,0,4,3,1,1,West India,Bachelor,2,Temples,Education,Family,7,1,1,5,4
+24,28078,5,3,0,1,1,0,1,East India,Bachelor,3,Nature Reserves,Photography,Family,6,4,2,5,4
+61,40153,1,4,1,5,4,0,0,East India,Bachelor,3,Temples,Leisure,Partner,6,3,3,2,3
+25,16111,4,1,0,2,2,0,1,West India,High School,5,Monuments,Leisure,Group Tour,2,1,1,4,2
+64,42504,5,2,0,1,1,1,0,North-East,Master,5,Temples,Adventure,Partner,3,2,2,2,5
+52,6802,4,1,0,2,3,0,1,West India,Bachelor,2,Temples,Photography,Friends,9,2,5,5,4
+31,13155,2,1,1,3,1,0,1,North-East,PhD,4,Festivals,Pilgrimage,Family,8,4,1,5,3
+34,13120,2,1,1,5,3,0,0,East India,Master,2,Museums,Photography,Friends,5,4,1,3,3
+53,44384,5,5,1,1,3,0,1,North India,Master,5,Nature Reserves,Leisure,Solo,4,0,2,3,2
+57,26918,4,3,1,1,1,0,0,East India,Bachelor,5,Temples,Leisure,Solo,2,0,3,1,2
+21,25445,1,1,1,1,4,1,1,East India,High School,1,Nature Reserves,Photography,Partner,8,0,1,5,1
+19,35306,5,3,0,1,3,1,0,South India,Bachelor,5,Temples,Photography,Group Tour,4,4,5,3,4
+23,21646,2,4,1,1,4,0,0,South India,High School,1,Monuments,Leisure,Friends,4,4,1,2,1
+59,36065,2,2,1,2,2,0,1,South India,PhD,4,Temples,Pilgrimage,Group Tour,3,4,5,4,3
+21,30199,5,4,1,5,3,0,1,South India,Master,2,Festivals,Adventure,Partner,3,2,4,2,5
+46,46976,4,4,0,3,4,0,0,North-East,PhD,2,Museums,Adventure,Solo,0,4,4,4,5
+35,21371,2,5,1,3,4,1,1,West India,High School,1,Monuments,Photography,Group Tour,6,2,5,3,2
+43,16835,4,2,1,3,2,0,1,North India,High School,2,Temples,Adventure,Group Tour,8,0,3,1,5
+61,7049,2,4,0,3,4,1,0,East India,PhD,5,Nature Reserves,Leisure,Solo,2,0,1,2,5
+51,36616,2,4,1,2,4,1,0,North-East,High School,3,Monuments,Leisure,Friends,1,0,1,2,5
+27,43191,3,2,0,4,2,0,1,North India,PhD,1,Monuments,Photography,Solo,2,1,4,2,3
+53,25932,2,2,0,5,3,1,0,North-East,Master,2,Temples,Photography,Group Tour,0,1,5,4,5
+31,34855,1,4,0,1,4,1,0,North-East,PhD,1,Monuments,Photography,Friends,5,3,1,3,5
+48,12158,5,2,0,4,4,1,0,East India,Master,1,Nature Reserves,Pilgrimage,Friends,6,3,1,2,5
+32,48016,5,4,0,3,4,1,1,West India,PhD,3,Monuments,Adventure,Solo,1,3,3,2,1
+25,12400,4,4,1,4,1,0,1,South India,High School,5,Nature Reserves,Photography,Group Tour,7,1,2,1,3
+31,47642,2,5,0,5,2,0,0,West India,PhD,1,Temples,Education,Partner,5,1,4,1,2
+40,20151,1,1,0,1,1,1,1,East India,High School,2,Museums,Education,Group Tour,3,3,4,3,1
+57,6154,4,4,1,1,2,0,0,East India,PhD,4,Monuments,Leisure,Family,4,3,2,3,4
+38,9499,3,3,0,5,3,0,1,East India,PhD,1,Museums,Adventure,Partner,7,4,1,5,3
+33,11295,4,1,1,5,3,0,0,North India,Bachelor,1,Nature Reserves,Photography,Friends,2,3,3,1,3
+62,17183,4,1,1,3,4,0,0,West India,High School,3,Monuments,Education,Partner,2,4,3,5,4
+35,34299,2,1,1,1,2,0,1,West India,Bachelor,5,Festivals,Adventure,Friends,3,2,4,4,4
+64,17874,3,5,0,4,3,1,0,North-East,High School,4,Museums,Leisure,Friends,0,1,3,5,4
+41,37711,4,4,0,2,2,0,1,North-East,Bachelor,2,Monuments,Pilgrimage,Partner,8,3,2,2,2
+43,10539,1,5,0,2,3,0,1,North-East,Master,4,Museums,Adventure,Friends,7,1,1,5,5
+42,47405,1,4,1,5,1,0,0,East India,PhD,2,Monuments,Adventure,Friends,7,1,2,3,3
+62,7557,5,5,0,3,3,0,0,West India,High School,5,Temples,Pilgrimage,Family,9,1,5,4,5
+58,43360,3,5,0,2,1,1,1,East India,High School,2,Museums,Adventure,Group Tour,5,2,4,2,5
+46,21482,3,3,0,1,3,1,0,North India,PhD,3,Festivals,Leisure,Group Tour,6,0,3,5,4
+32,7200,5,5,1,5,4,1,0,North-East,High School,3,Festivals,Leisure,Family,5,3,5,4,2
+62,7961,4,2,1,4,1,1,0,East India,High School,3,Nature Reserves,Pilgrimage,Partner,8,0,3,4,1
+18,26357,3,3,0,5,3,0,0,East India,Bachelor,3,Monuments,Photography,Solo,2,0,1,2,2
+42,16969,1,5,0,4,4,1,0,North India,High School,4,Museums,Education,Solo,2,0,1,5,5
+24,7869,1,1,0,5,1,0,1,South India,Master,5,Nature Reserves,Photography,Solo,2,1,1,4,2
+26,33643,2,2,0,5,4,0,1,West India,Master,2,Museums,Adventure,Family,9,4,3,4,4
+41,29736,3,2,1,5,2,0,0,South India,PhD,2,Monuments,Education,Family,2,1,5,1,1
+18,43467,4,2,1,4,2,0,0,North-East,High School,3,Festivals,Pilgrimage,Friends,8,1,1,4,4
+61,28328,5,3,1,4,1,0,0,East India,PhD,3,Temples,Pilgrimage,Solo,3,0,5,1,1
